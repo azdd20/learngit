@@ -26,3 +26,4 @@ Git 鼓励大量使用分支
 创建+切换分支：git swtch -b <name>
 合并某分支到当前：git merge1<name>
 删除分支： git branch -d <name>
+it is my pleasant
