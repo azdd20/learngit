@@ -1,3 +1,4 @@
+Git is a distributed version control system.
 Git is a very free software.
 Git 命令必须在Git仓库目录执行，在仓库外执行是没有意义的
 输入 git add readme.txt，得到错误 fatal:pathspec 'readme.txt' did not match any files.
