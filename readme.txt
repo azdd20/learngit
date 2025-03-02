@@ -17,4 +17,4 @@ git rm 用于删除一个文件。如果一个文件已被提交到版本库，�
 
 要克隆一个仓库，首先必须知道一个仓库的地址,然后使用git clone 命令克隆
 git 支持多种协议，包括https,但ssh协议速度最快
-it is my pleasant
+it is his pleasant
