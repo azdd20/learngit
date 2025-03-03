@@ -35,3 +35,5 @@ it is my pleasant
 干活都在dev分支上，也就是说dev分支是不稳定的，到某个时候再把dev分支合并到master上，在master上发布1.0版本，
 git 分支十分强大，在团队开发中应该充分利用。合并分支时，加上--no-ff参数就可以用普通股模式合并，合并后的历史右分支，能看出来曾经做过合并，而fast forward 合并后就看不出
 git is a free software
+
+it is my pleasant
